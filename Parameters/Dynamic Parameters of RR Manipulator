@@ -1,4 +1,4 @@
-TRUE PARAMETERS (Correct, Accurate Data)
+TRUE PARAMETERS
 Parameter	Value
 m1	    7,8
 m2	    4,5
@@ -9,3 +9,17 @@ lc2	    0,0341
 I1	    0,176
 I2	    0,0411
 g_const	9,8
+
+PERTURBED PARAMETERS
+Parameter	Value
+m1_est	8
+m2_est	4,3
+l1_est	0,32
+l2_est	0,14
+lc1_est	0,16
+lc2_est	0,035
+I1_est	0,18
+I2_est	0,04
+g_const	9,8
+
+	
